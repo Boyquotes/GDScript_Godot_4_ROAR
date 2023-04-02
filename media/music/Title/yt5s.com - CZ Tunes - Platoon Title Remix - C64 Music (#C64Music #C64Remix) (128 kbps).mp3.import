@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://mp2s7slq5egy"
+path="res://.godot/imported/yt5s.com - CZ Tunes - Platoon Title Remix - C64 Music (#C64Music #C64Remix) (128 kbps).mp3-f694db13da261784771fafbdca1a2de0.mp3str"
+
+[deps]
+
+source_file="res://media/music/Title/yt5s.com - CZ Tunes - Platoon Title Remix - C64 Music (#C64Music #C64Remix) (128 kbps).mp3"
+dest_files=["res://.godot/imported/yt5s.com - CZ Tunes - Platoon Title Remix - C64 Music (#C64Music #C64Remix) (128 kbps).mp3-f694db13da261784771fafbdca1a2de0.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4
